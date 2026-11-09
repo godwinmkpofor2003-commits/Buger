@@ -29,6 +29,8 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 30px 50px;
+    align-items: center;
+    
 }
 
 .logo {
@@ -42,6 +44,7 @@ body {
     display: flex;
     gap: 35px;
     text-align: center;
+    
 }
 
 .nav-links a {
@@ -49,6 +52,7 @@ body {
     color: #9cb1a7;
     font-size: 0.85rem;
     font-weight: 300;
+    
 }
 
 .nav-links a:hover,
